@@ -348,3 +348,7 @@ button{
 .white-text{
 	color: rgb(214, 0, 0);
 }
+.img-border{
+	border: #000 solid 3px;
+	box-shadow: 4px 4px 7px rgb(129, 126, 126);
+}
